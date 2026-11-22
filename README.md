@@ -57,15 +57,6 @@ O projeto foi construído em etapas, sempre testando cada parte antes de avança
 - **Maven:** gerenciar dependências (JavaFX) pelo `pom.xml`.
 - **Depuração:** ler mensagens de erro, achar código antigo misturado com o novo e testar cada etapa isoladamente.
 - **Git/GitHub:** organizar o projeto, usar `.gitignore` e versionar o código.
-
-## 🔮 Próximos passos
-
-- Impedir apelidos repetidos
-- Mensagens privadas (`/msg usuario texto`)
-- Mensagens coloridas por usuário
-- Compartilhamento de arquivos
-- Campo para informar o IP do servidor (hoje usa `localhost`)
-
 ---
 
 Feito por **Jardel** 👨‍💻
